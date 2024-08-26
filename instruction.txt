@@ -1,0 +1,7 @@
+INSTRUCTION BEFORE THE RUNNING CODE.
+
+- Download Soundtracks: First, download the three soundtracks (Track-one for Game-Over, Track-two for hitting the bricks, and Track-three for winning the game) to your computer.
+
+- Save Soundtracks: Save these soundtracks in a directory on your system. Note the file paths of each of the soundtracks.
+
+- In your Play class, add sound files for hitting the bricks, Win-game and game-over. 
